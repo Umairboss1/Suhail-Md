@@ -1,15 +1,15 @@
 {
-   "name": "suhail-md",
+   "name": "UMAIR BOSS HACKER",
    "version": "1.3.1",
-   "description": "Multi device whatsapp bot by SuhailTechInfo.",
+   "description": "Multi device whatsapp bot by UMAIR BOSS HACKER.",
    "main": "index.js",
    "type": "commonjs",  
    "scripts": {
-            "run": "pm2 start . --deep-monitoring --attach --name Suhail || node .",
-            "start": "pm2 start . --attach --name Suhail",
-            "stop": "pm2 stop Suhail"
+            "run": "pm2 start . --deep-monitoring --attach --name UMAIR BOSS HACKER || node .",
+            "start": "pm2 start . --attach --name UMAIR BOSS HACKER",
+            "stop": "pm2 stop UMAIR BOSS HACKER"
    },
-   "author": "SuhailTechInfo",
+   "author": "UMAIR BOSS HACKER",
    "license" :"Apache-2.0",
    "dependencies": { 
              "@adiwajshing/keyed-db": "^0.2.4",
@@ -71,8 +71,8 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/SuhailTechInfo/Suhail-Md.git"
+      "url": "git+https://whatsapp.com/channel/0029VaOvzcI3mFXylrz4Rz2x"
    },
-   "bugs": { "url": "https://github.com/SuhailTechInfo/Suhail-Md/issues" },
-   "homepage": "https://github.com/SuhailTechInfo/Suhail-Md#readme"
+   "bugs": { "url": "https://whatsapp.com/channel/0029VaOvzcI3mFXylrz4Rz2x" },
+   "homepage": "https://whatsapp.com/channel/0029VaOvzcI3mFXylrz4Rz2x"
 }
